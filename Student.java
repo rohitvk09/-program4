@@ -1,4 +1,4 @@
-package p4;
+
 import java.util.*;
 class Student {
     String name, program, semester;
